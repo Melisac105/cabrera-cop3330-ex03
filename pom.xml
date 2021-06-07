@@ -47,7 +47,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>base.PrintQuotes</mainClass>
+                                <mainClass>PrintQuotesApp</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
